@@ -1,3 +1,3 @@
-	[submodule "src/main/resources/migrations"]
+[submodule "src/main/resources/migrations"]
 	path = src/main/resources/migrations
 	url = https://github.com/mageddo/submodule-example-02.git
